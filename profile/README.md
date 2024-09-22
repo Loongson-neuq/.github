@@ -1,12 +1,21 @@
-## Hi there 👋
+# NEUQ 龙芯实验室
 
-<!--
+此组织用于管理 Github Classroom ，更多内容请点击 [这里](https://manual.caiyi1.me/loongson)
 
-**Here are some ideas to get you started:**
+想了解作业管理机制请参考 [LoongsonNeuq](https://github.com/Loongson-neuq/LoongsonNeuq)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 关于作业
+
+### 如何完成作业？
+
+1. 准备网络环境，创建 Github 用户： https://github.com 。
+
+2. 点击作业链接，会返回一个仓库链接，使用 Git 克隆仓库至本地。
+
+3. 按照仓库中的 `README.md` 完成作业，使用 Git 提交并推送。
+
+> 遇到问题请参考 [Git 教程](https://manual.caiyi1.me/use-git)
+
+### 作业链接（点击领取）
+
+#### 0. [Git 与 C 语言小练习](https://classroom.github.com/a/XC5l-vCm) 2024-9-19
