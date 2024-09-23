@@ -18,4 +18,6 @@
 
 ### 作业链接（点击领取）
 
-#### 0. [Git 与 C 语言小练习](https://classroom.github.com/a/XC5l-vCm) 2024-9-19
+| No | Name | Link | Release Date |
+|:-:|---|---|:-:|
+| 0 | Git 与 C 语言小练习 | https://classroom.github.com/a/XC5l-vCm | 2024-9-19 |
