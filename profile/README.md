@@ -18,7 +18,8 @@
 
 ### 作业链接（点击领取）
 
-| No | Name | Link | Release Date |
-|:-:|---|---|:-:|
-| 0 | Git 与 C 语言小练习 | https://classroom.github.com/a/XC5l-vCm | 2024-9-19 |
-| 65535 | ??? | aHR0cHM6Ly93aGF0LXRoZS1mdWNrLWlzLXRoaXMuY2FpeWkxLm1lLw== | ????-??-?? |
+| Type | No | Name | Link | Release Date |
+|:-:|:-:|---|---|:-:|
+| OS&CPU | 0 | Git 与 C 语言小练习 | https://classroom.github.com/a/XC5l-vCm | 2024-9-19 |
+| CPU | 1 | Verilog小练习 | https://classroom.github.com/a/sGVfQLCO | 2024-10-19 |
+| ??? | 65535 | ??? | aHR0cHM6Ly93aGF0LXRoZS1mdWNrLWlzLXRoaXMuY2FpeWkxLm1lLw== | ????-??-?? |
