@@ -1,5 +1,9 @@
 # NEUQ 龙芯实验室
 
+东北大学秦皇岛分校-龙芯实验室
+
+博客链接：[https://loongson-neuq.pages.dev/](https://loongson-neuq.pages.dev/)
+
 此组织用于管理 Github Classroom ，更多内容请点击 [这里](https://manual.caiyi1.me/loongson)
 
 想了解作业管理机制请参考 [LoongsonNeuq](https://github.com/Loongson-neuq/LoongsonNeuq)
