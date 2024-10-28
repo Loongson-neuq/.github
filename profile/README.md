@@ -22,12 +22,12 @@
 
 ### 作业链接（点击领取）
 
-| Type | No | Name | Link | Release Date |
-|:-:|:-:|---|---|:-:|
-| OS&CPU | 0 | Git 与 C 语言小练习 | https://classroom.github.com/a/XC5l-vCm/ | 2024-9-19 |
-| CPU | 1 | Verilog小练习1 | https://classroom.github.com/a/sGVfQLCO/ | 2024-10-19 |
-| OS | 2 | Linux 入门作业01 | https://classroom.github.com/a/rr_hwmAU/ | 2024-10-20 |
-| CPU | 3 | Verilog小练习2 | https://classroom.github.com/a/2nERACSW/ | 2024-10-26 |
-| OS | 4 | Rustlings 作业 | https://classroom.github.com/a/OkMvYA1o/ | 2024-10-28 |
-| OS | 5 | Rust 基础 01 | https://classroom.github.com/a/TyKn4VH_/ | 2024-10-28 |
-| ??? | 65535 | ??? | aHR0cHM6Ly93aGF0LXRoZS1mdWNrLWlzLXRoaXMuY2FpeWkxLm1lLw== | ????-??-?? |
+| Type | No | Name | Link | Release Date | Info |
+|:-:|:-:|---|---|:-:|---|
+| OS&CPU | 0 | Git 与 C 语言小练习 | https://classroom.github.com/a/XC5l-vCm/ | 2024-9-19 | |
+| CPU | 1 | Verilog小练习1 | https://classroom.github.com/a/sGVfQLCO/ | 2024-10-19 | |
+| OS | 2 | Linux 入门作业01 | https://classroom.github.com/a/rr_hwmAU/ | 2024-10-20 | |
+| CPU | 3 | Verilog小练习2 | https://classroom.github.com/a/2nERACSW/ | 2024-10-26 | |
+| OS | 4 | Rustlings 作业 | https://classroom.github.com/a/OkMvYA1o/ | 2024-10-28 | 长期 |
+| OS | 5 | Rust 基础 01 | https://classroom.github.com/a/TyKn4VH_/ | 2024-10-28 | |
+| ??? | 65535 | ??? | aHR0cHM6Ly93aGF0LXRoZS1mdWNrLWlzLXRoaXMuY2FpeWkxLm1lLw== | ????-??-?? | |
