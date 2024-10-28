@@ -31,3 +31,8 @@
 | OS | 4 | Rustlings 作业 | https://classroom.github.com/a/OkMvYA1o/ | 2024-10-28 | 长期 |
 | OS | 5 | Rust 基础 01 | https://classroom.github.com/a/TyKn4VH_/ | 2024-10-28 | |
 | ??? | 65535 | ??? | aHR0cHM6Ly93aGF0LXRoZS1mdWNrLWlzLXRoaXMuY2FpeWkxLm1lLw== | ????-??-?? | |
+
+## Rustlings 排行榜
+
+[点我](https://github.com/Loongson-neuq/Rustlings-rank) 前往
+
