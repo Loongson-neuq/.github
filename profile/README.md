@@ -36,3 +36,5 @@
 
 [点我](https://github.com/Loongson-neuq/Rustlings-rank) 前往
 
+注意：排行榜分数仅每 5 分钟更新一次，因此可能不及时。
+
