@@ -29,5 +29,5 @@
 | OS | 2 | Linux 入门作业01 | https://classroom.github.com/a/rr_hwmAU | 2024-10-20 |
 | CPU | 3 | Verilog小练习2 | https://classroom.github.com/a/2nERACSW | 2024-10-26 |
 | OS | 4 | Rustlings 作业 | https://classroom.github.com/a/OkMvYA1o | 2024-10-28 |
-| OS | 5 | Rust 基础 01 |　https://classroom.github.com/a/TyKn4VH_ | 2024-10-28 |
+| OS | 5 | Rust 基础 01 | [https://classroom.github.com/a/TyKn4VH_](https://classroom.github.com/a/TyKn4VH_) | 2024-10-28 |
 | ??? | 65535 | ??? | aHR0cHM6Ly93aGF0LXRoZS1mdWNrLWlzLXRoaXMuY2FpeWkxLm1lLw== | ????-??-?? |
