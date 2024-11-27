@@ -31,6 +31,7 @@
 | OS | 4 | Rustlings 作业 | https://classroom.github.com/a/OkMvYA1o/ | 2024-10-28 | 长期 |
 | OS | 5 | Rust 基础 01 | https://classroom.github.com/a/TyKn4VH_/ | 2024-10-28 | |
 | OS | 6 | 内存管理 01 | https://classroom.github.com/a/o8i7EK7p | 2024-11-4 | 3 weeks |
+| CPU | 7 | CPU RTL代码仓库 | https://classroom.github.com/a/3VQHsLCb | 2024-11-27 | 长期 |
 | ??? | 65535 | ??? | aHR0cHM6Ly93aGF0LXRoZS1mdWNrLWlzLXRoaXMuY2FpeWkxLm1lLw== | ????-??-?? | |
 
 ## Rustlings 排行榜
